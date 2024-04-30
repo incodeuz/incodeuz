@@ -31,7 +31,8 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=incodeuz&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-I'm Frontend Web Developer, founder of incodeuz and member of Najot Ta'lim
+## Founder of popular projects [@ayti_jobs](https://t.me/ayti_jobs) | [@leedsoft](https://t.me/leedsoft)
+### Software Frontend engineer in RASpectful Team
 
 - 🔭 I’m currently working on **FullStack Development**
 - 🌱 I’m currently learning **Frontend Development deeper**
